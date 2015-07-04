@@ -1,6 +1,7 @@
 *.pyc
 *.dev*
 *.nja
+*~
 
 build
 dist
